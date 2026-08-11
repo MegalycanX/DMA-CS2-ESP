@@ -32,3 +32,12 @@ mega123
 
 ### Discord: 
 https://discord.gg/yDTBeNUt9C
+
+
+## Credits
+- [CS2_DMA_Extrnal](https://github.com/Mzzzj/CS2_DMA_Extrnal) - Initial codebase and inspiration
+- [MemProcFS](https://github.com/ufrisk/MemProcFS) - DMA memory access framework
+- [cs2-dumper](https://github.com/a2x/cs2-dumper) - Automated offset dumper
+- [cs2_webradar](https://github.com/clauadv/cs2_webradar) - Web Radar frontend
+- [Dear ImGui](https://github.com/ocornut/imgui) - GUI framework
+
